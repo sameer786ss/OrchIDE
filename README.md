@@ -48,3 +48,5 @@ Having trouble or have a suggestion to make OrchIDE even better?
 
 ---
 *© 2026 OrchIDE Systems. All rights reserved.*
+
+Source Code is proprietary available upon request!
